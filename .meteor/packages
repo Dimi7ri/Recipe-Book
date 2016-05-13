@@ -31,8 +31,9 @@ accounts-ui
 accounts-password
 matb33:bootstrap-glyphicons
 zimme:active-route
-gwendall:auth-client-callbacks
+gwendall:accounts-helpers
 
 meteortoys:allthings
 datariot:ganalytics
 
+check
